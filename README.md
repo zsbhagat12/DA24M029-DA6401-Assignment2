@@ -2,14 +2,17 @@
 
 Make sure you download the inaturalist dataset and keep it in the same directory as these files and provide its path in the notebooks as required. 
 
-File Organization
+# File Organization
+
+```
 DA24M029-DA6401-Assignment2/
 │
 ├── best_models/            # some best/saved models present 
 ├── wandb/                  # cache for wandb
 ├── partA.ipynb             # notebook relevant to partA
-├── partB.ipynb             # notebook relevant to partA
+├── partB.ipynb             # notebook relevant to partB
 ├── README.md               # this readme file
+```
 
 
 Just simply run `partA.ipynb` (or `partB.ipynb`) for the relevant task A or B cell by cell starting from the top. All the libraries will be installed as required. 
