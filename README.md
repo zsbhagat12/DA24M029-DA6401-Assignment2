@@ -18,7 +18,7 @@ DA24M029-DA6401-Assignment2/
 Just simply run `partA.ipynb` (or `partB.ipynb`) for the relevant task A or B cell by cell starting from the top. All the libraries will be installed as required. 
 
 For Part A,
-Run upto md cell Q3, for sweep train task. Run cells after it for best model tasks. 
+Run upto `Sweep Config and Run` cell, for sweep train task. You may change parameters as necessary. Run cells after it for best model tasks, training (if model not saved; or you may delete the saved models from `best_models` folder for a fresh model train with best configs, as long as you know them). 
 Best Model:  Final Test Accuracy: 0.3790 (Check it in notebook before running the notebook)
 ```
 best_config = {
@@ -36,4 +36,5 @@ best_config = {
 }
 ```
 For Part B, 
-Run upto finetune runner md cell, with config changeable by us in function parameters, for finetuning, and run cells thereafter for test accuracy. 
+Run upto finetune runner md cell, with config changeable by us in `run_finetune_training` function parameters while its execution, for finetuning, and run cells thereafter for test accuracy. 
+For inception model only, if you want to run, comment and uncomment the code lines as per the required instructions, in `train one epoch and eval functions` cell, and change IMAGE_SIZE=299 throughout the code (atleast for my system it had to be done). For other models it is fine. 
