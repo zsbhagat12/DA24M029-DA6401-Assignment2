@@ -1,0 +1,16 @@
+{"time":"2025-04-18T22:47:08.6655751+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"d:\\Jamie\\IIT Madras\\Semester II_1st Year_2024-25\\DA6401 Introduction to Deep Learning\\Assignments\\2\\Github\\wandb\\run-20250418_224708-9efb46s1\\logs\\debug-core.log"}
+{"time":"2025-04-18T22:47:09.1077588+05:30","level":"INFO","msg":"created new stream","id":"9efb46s1"}
+{"time":"2025-04-18T22:47:09.1082981+05:30","level":"INFO","msg":"stream: started","id":"9efb46s1"}
+{"time":"2025-04-18T22:47:09.1082981+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"9efb46s1"}
+{"time":"2025-04-18T22:47:09.1082981+05:30","level":"INFO","msg":"handler: started","stream_id":"9efb46s1"}
+{"time":"2025-04-18T22:47:09.1082981+05:30","level":"INFO","msg":"sender: started","stream_id":"9efb46s1"}
+{"time":"2025-04-18T22:47:09.9227576+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T22:47:10.5520565+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T22:47:10.5520565+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T22:47:11.5592107+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-metadata.json","runtime_seconds":0.9074123,"progress":"1.2KB/1.2KB"},{"desc":"uploading requirements.txt","runtime_seconds":0.8254162,"progress":"5.9KB/5.9KB"},{"desc":"updating run config","runtime_seconds":0.1184919}],"total_operations":3}}
+{"time":"2025-04-18T22:47:13.0765584+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T22:47:13.4299227+05:30","level":"INFO","msg":"stream: closing","id":"9efb46s1"}
+{"time":"2025-04-18T22:47:13.4299227+05:30","level":"INFO","msg":"handler: closed","stream_id":"9efb46s1"}
+{"time":"2025-04-18T22:47:13.4299227+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"9efb46s1"}
+{"time":"2025-04-18T22:47:13.4299227+05:30","level":"INFO","msg":"sender: closed","stream_id":"9efb46s1"}
+{"time":"2025-04-18T22:47:13.4304289+05:30","level":"INFO","msg":"stream: closed","id":"9efb46s1"}

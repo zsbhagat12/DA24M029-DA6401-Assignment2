@@ -1,0 +1,6 @@
+{"time":"2025-04-18T19:46:43.3052406+05:30","level":"INFO","msg":"main: starting server","port-filename":"C:\\Users\\zeesh\\AppData\\Local\\Temp\\tmpc6ttthnt\\port-26452.txt","pid":26452,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false}
+{"time":"2025-04-18T19:46:43.3097018+05:30","level":"INFO","msg":"Will exit if parent process dies.","ppid":26452}
+{"time":"2025-04-18T19:46:43.3097018+05:30","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":59451,"Zone":""}}
+{"time":"2025-04-18T19:46:43.4818374+05:30","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:59452"}
+{"time":"2025-04-18T19:46:44.1108166+05:30","level":"INFO","msg":"handleInformInit: received","streamId":"a2a0bca3","id":"127.0.0.1:59452"}
+{"time":"2025-04-18T19:46:44.598675+05:30","level":"INFO","msg":"handleInformInit: stream started","streamId":"a2a0bca3","id":"127.0.0.1:59452"}

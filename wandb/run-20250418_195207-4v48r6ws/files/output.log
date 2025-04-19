@@ -1,0 +1,14 @@
+wandb: WARNING Calling wandb.run.save without any arguments is deprecated.Changes to attributes are automatically persisted.
+Minimal preprocessing, no augmentation
+Total images: 9999
+Training set: 7999 images
+Validation set: 2000 images
+Number of classes: 10
+Model: resnet50, Strategy: last_only → Ready for training.
+Train Epoch 1: 100%|██████████| 125/125 [01:29<00:00,  1.40it/s]
+Eval Epoch 1: 100%|██████████| 32/32 [00:25<00:00,  1.25it/s]
+Train Epoch 2: 100%|██████████| 125/125 [01:04<00:00,  1.93it/s]
+Eval Epoch 2: 100%|██████████| 32/32 [00:24<00:00,  1.29it/s]
+Train Epoch 3: 100%|██████████| 125/125 [03:46<00:00,  1.81s/it]
+Eval Epoch 3: 100%|██████████| 32/32 [00:29<00:00,  1.10it/s]
+Train Epoch 4:   1%|          | 1/125 [00:15<32:30, 15.73s/it]

@@ -1,0 +1,13 @@
+{"time":"2025-04-18T19:09:14.3418694+05:30","level":"INFO","msg":"main: starting server","port-filename":"C:\\Users\\zeesh\\AppData\\Local\\Temp\\tmpa65oc8q0\\port-13436.txt","pid":13436,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false}
+{"time":"2025-04-18T19:09:14.347257+05:30","level":"INFO","msg":"Will exit if parent process dies.","ppid":13436}
+{"time":"2025-04-18T19:09:14.347257+05:30","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":58560,"Zone":""}}
+{"time":"2025-04-18T19:09:14.5093701+05:30","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:58561"}
+{"time":"2025-04-18T19:09:15.1669943+05:30","level":"INFO","msg":"handleInformInit: received","streamId":"epi7ij8a","id":"127.0.0.1:58561"}
+{"time":"2025-04-18T19:09:15.620374+05:30","level":"INFO","msg":"handleInformInit: stream started","streamId":"epi7ij8a","id":"127.0.0.1:58561"}
+{"time":"2025-04-18T19:11:03.9892172+05:30","level":"INFO","msg":"handleInformTeardown: server teardown initiated","id":"127.0.0.1:58561"}
+{"time":"2025-04-18T19:11:03.9892172+05:30","level":"INFO","msg":"connection: closing","id":"127.0.0.1:58561"}
+{"time":"2025-04-18T19:11:03.9892172+05:30","level":"INFO","msg":"server is shutting down"}
+{"time":"2025-04-18T19:11:03.9897262+05:30","level":"INFO","msg":"connection: closed successfully","id":"127.0.0.1:58561"}
+{"time":"2025-04-18T19:11:05.2198308+05:30","level":"INFO","msg":"handleInformTeardown: server shutdown complete","id":"127.0.0.1:58561"}
+{"time":"2025-04-18T19:11:05.2203944+05:30","level":"INFO","msg":"connection: ManageConnectionData: connection closed","id":"127.0.0.1:58561"}
+{"time":"2025-04-18T19:11:05.2203944+05:30","level":"INFO","msg":"server is closed"}

@@ -1,0 +1,35 @@
+2025-04-18 17:16:02,922 INFO    Thread-35 :32348 [wandb_setup.py:_flush():67] Current SDK version is 0.19.8
+2025-04-18 17:16:02,922 INFO    Thread-35 :32348 [wandb_setup.py:_flush():67] Configure stats pid to 32348
+2025-04-18 17:16:02,922 INFO    Thread-35 :32348 [wandb_setup.py:_flush():67] Loading settings from C:\Users\zeesh\.config\wandb\settings
+2025-04-18 17:16:02,922 INFO    Thread-35 :32348 [wandb_setup.py:_flush():67] Loading settings from d:\Jamie\IIT Madras\Semester II_1st Year_2024-25\DA6401 Introduction to Deep Learning\Assignments\2\Github\wandb\settings
+2025-04-18 17:16:02,922 INFO    Thread-35 :32348 [wandb_setup.py:_flush():67] Loading settings from environment variables
+2025-04-18 17:16:02,922 INFO    Thread-35 :32348 [wandb_init.py:setup_run_log_directory():647] Logging user logs to d:\Jamie\IIT Madras\Semester II_1st Year_2024-25\DA6401 Introduction to Deep Learning\Assignments\2\Github\wandb\run-20250418_171602-88njoq1n\logs\debug.log
+2025-04-18 17:16:02,922 INFO    Thread-35 :32348 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to d:\Jamie\IIT Madras\Semester II_1st Year_2024-25\DA6401 Introduction to Deep Learning\Assignments\2\Github\wandb\run-20250418_171602-88njoq1n\logs\debug-internal.log
+2025-04-18 17:16:02,924 INFO    Thread-35 :32348 [wandb_init.py:monkeypatch_ipython():599] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x0000013A166E61C0>
+2025-04-18 17:16:02,924 INFO    Thread-35 :32348 [wandb_init.py:init():761] calling init triggers
+2025-04-18 17:16:02,924 INFO    Thread-35 :32348 [wandb_init.py:init():766] wandb.init called with sweep_config: {'activation': 'gelu', 'augment': True, 'batch_norm': True, 'batch_size': 32, 'dense_neurons': 512, 'dropout': 0.3, 'epochs': [5, 15, 25], 'filters': [32, 64, 128, 256, 512], 'kernel_size': 5, 'lr': 0.002738691213185159}
+config: {'_wandb': {}}
+2025-04-18 17:16:02,924 INFO    Thread-35 :32348 [wandb_init.py:init():784] starting backend
+2025-04-18 17:16:02,924 INFO    Thread-35 :32348 [wandb_init.py:init():788] sending inform_init request
+2025-04-18 17:16:02,956 INFO    Thread-35 :32348 [backend.py:_multiprocessing_setup():101] multiprocessing start_methods=spawn, using: spawn
+2025-04-18 17:16:02,956 INFO    Thread-35 :32348 [wandb_init.py:init():798] backend started and connected
+2025-04-18 17:16:02,958 INFO    Thread-35 :32348 [wandb_run.py:_config_callback():1261] config_cb None None {'activation': 'gelu', 'augment': True, 'batch_norm': True, 'batch_size': 32, 'dense_neurons': 512, 'dropout': 0.3, 'epochs': [5, 15, 25], 'filters': [32, 64, 128, 256, 512], 'kernel_size': 5, 'lr': 0.002738691213185159}
+2025-04-18 17:16:02,960 INFO    Thread-35 :32348 [wandb_run.py:_label_probe_notebook():1204] probe notebook
+2025-04-18 17:16:02,976 INFO    Thread-35 :32348 [wandb_init.py:init():891] updated telemetry
+2025-04-18 17:16:03,043 INFO    Thread-35 :32348 [wandb_init.py:init():915] communicating run to backend with 90.0 second timeout
+2025-04-18 17:16:03,437 INFO    Thread-35 :32348 [wandb_init.py:init():990] starting run threads in backend
+2025-04-18 17:16:03,894 INFO    Thread-35 :32348 [wandb_run.py:_console_start():2375] atexit reg
+2025-04-18 17:16:03,895 INFO    Thread-35 :32348 [wandb_run.py:_redirect():2227] redirect: wrap_raw
+2025-04-18 17:16:03,895 INFO    Thread-35 :32348 [wandb_run.py:_redirect():2292] Wrapping output streams.
+2025-04-18 17:16:03,895 INFO    Thread-35 :32348 [wandb_run.py:_redirect():2315] Redirects installed.
+2025-04-18 17:16:03,905 INFO    Thread-35 :32348 [wandb_init.py:init():1032] run started, returning control to user process
+2025-04-18 17:16:04,139 INFO    Thread-35 :32348 [wandb_run.py:_finish():2112] finishing run da24m029-indian-institute-of-technology-madras/da24m029-da6401-assignment2/88njoq1n
+2025-04-18 17:16:04,141 INFO    Thread-35 :32348 [jupyter.py:save_history():458] not saving jupyter history
+2025-04-18 17:16:04,141 INFO    Thread-35 :32348 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-04-18 17:16:04,141 INFO    Thread-35 :32348 [wandb_init.py:_jupyter_teardown():581] cleaning up jupyter logic
+2025-04-18 17:16:04,141 INFO    Thread-35 :32348 [wandb_run.py:_atexit_cleanup():2340] got exitcode: 1
+2025-04-18 17:16:04,141 INFO    Thread-35 :32348 [wandb_run.py:_restore():2322] restore
+2025-04-18 17:16:04,141 INFO    Thread-35 :32348 [wandb_run.py:_restore():2328] restore done
+2025-04-18 17:16:06,098 INFO    Thread-35 :32348 [wandb_run.py:_footer_history_summary_info():3956] rendering history
+2025-04-18 17:16:06,098 INFO    Thread-35 :32348 [wandb_run.py:_footer_history_summary_info():3988] rendering summary
+2025-04-18 17:16:06,098 INFO    Thread-35 :32348 [wandb_run.py:_footer_sync_info():3917] logging synced files

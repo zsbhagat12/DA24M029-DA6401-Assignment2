@@ -1,0 +1,16 @@
+{"time":"2025-04-18T22:42:08.1558172+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"d:\\Jamie\\IIT Madras\\Semester II_1st Year_2024-25\\DA6401 Introduction to Deep Learning\\Assignments\\2\\Github\\wandb\\run-20250418_224208-phi0qbsj\\logs\\debug-core.log"}
+{"time":"2025-04-18T22:42:08.5896593+05:30","level":"INFO","msg":"created new stream","id":"phi0qbsj"}
+{"time":"2025-04-18T22:42:08.5896593+05:30","level":"INFO","msg":"stream: started","id":"phi0qbsj"}
+{"time":"2025-04-18T22:42:08.5896593+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"phi0qbsj"}
+{"time":"2025-04-18T22:42:08.5896593+05:30","level":"INFO","msg":"sender: started","stream_id":"phi0qbsj"}
+{"time":"2025-04-18T22:42:08.5896593+05:30","level":"INFO","msg":"handler: started","stream_id":"phi0qbsj"}
+{"time":"2025-04-18T22:42:08.9187242+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T22:42:09.471592+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T22:42:09.471592+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T22:42:10.484728+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run config","runtime_seconds":0.2207966}],"total_operations":1}}
+{"time":"2025-04-18T22:42:11.3773781+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T22:42:11.7242958+05:30","level":"INFO","msg":"stream: closing","id":"phi0qbsj"}
+{"time":"2025-04-18T22:42:11.7242958+05:30","level":"INFO","msg":"handler: closed","stream_id":"phi0qbsj"}
+{"time":"2025-04-18T22:42:11.7242958+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"phi0qbsj"}
+{"time":"2025-04-18T22:42:11.7242958+05:30","level":"INFO","msg":"sender: closed","stream_id":"phi0qbsj"}
+{"time":"2025-04-18T22:42:11.7248073+05:30","level":"INFO","msg":"stream: closed","id":"phi0qbsj"}

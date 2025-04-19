@@ -1,0 +1,16 @@
+{"time":"2025-04-18T22:41:45.5278498+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"d:\\Jamie\\IIT Madras\\Semester II_1st Year_2024-25\\DA6401 Introduction to Deep Learning\\Assignments\\2\\Github\\wandb\\run-20250418_224145-kpz467rb\\logs\\debug-core.log"}
+{"time":"2025-04-18T22:41:45.955412+05:30","level":"INFO","msg":"created new stream","id":"kpz467rb"}
+{"time":"2025-04-18T22:41:45.955412+05:30","level":"INFO","msg":"stream: started","id":"kpz467rb"}
+{"time":"2025-04-18T22:41:45.955412+05:30","level":"INFO","msg":"handler: started","stream_id":"kpz467rb"}
+{"time":"2025-04-18T22:41:45.955412+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"kpz467rb"}
+{"time":"2025-04-18T22:41:45.955412+05:30","level":"INFO","msg":"sender: started","stream_id":"kpz467rb"}
+{"time":"2025-04-18T22:41:46.2715448+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T22:41:46.919705+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T22:41:46.919705+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T22:41:47.9285785+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-metadata.json","runtime_seconds":0.944092,"progress":"1.2KB/1.2KB"},{"desc":"uploading requirements.txt","runtime_seconds":0.900641,"progress":"5.9KB/5.9KB"},{"desc":"updating run config","runtime_seconds":0.2384473}],"total_operations":3}}
+{"time":"2025-04-18T22:41:49.3104987+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T22:41:49.7284812+05:30","level":"INFO","msg":"stream: closing","id":"kpz467rb"}
+{"time":"2025-04-18T22:41:49.7284812+05:30","level":"INFO","msg":"handler: closed","stream_id":"kpz467rb"}
+{"time":"2025-04-18T22:41:49.7284812+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"kpz467rb"}
+{"time":"2025-04-18T22:41:49.7284812+05:30","level":"INFO","msg":"sender: closed","stream_id":"kpz467rb"}
+{"time":"2025-04-18T22:41:49.7291869+05:30","level":"INFO","msg":"stream: closed","id":"kpz467rb"}

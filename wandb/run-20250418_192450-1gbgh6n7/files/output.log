@@ -1,0 +1,23 @@
+100%|██████████| 125/125 [01:28<00:00,  1.42it/s]
+[Epoch 1] Train Acc: 0.1323 | Val Acc: 0.1445
+Saved new best_model.pth
+100%|██████████| 125/125 [01:25<00:00,  1.47it/s]
+[Epoch 2] Train Acc: 0.1554 | Val Acc: 0.2030
+Saved new best_model.pth
+100%|██████████| 125/125 [01:39<00:00,  1.26it/s]
+[Epoch 3] Train Acc: 0.1883 | Val Acc: 0.2305
+Saved new best_model.pth
+100%|██████████| 125/125 [01:42<00:00,  1.22it/s]
+[Epoch 4] Train Acc: 0.2272 | Val Acc: 0.2590
+Saved new best_model.pth
+100%|██████████| 125/125 [01:48<00:00,  1.16it/s]
+[Epoch 5] Train Acc: 0.2448 | Val Acc: 0.3015
+Saved new best_model.pth
+ 15%|█▌        | 19/125 [00:30<02:50,  1.61s/it]
+Device: cuda
+Data directory: nature_12K\inaturalist_12K
+Total Computations: 197,953,010
+Total Parameters: 5,642,930
+Create sweep with ID: wa25zrnq
+Sweep URL: https://wandb.ai/da24m029-indian-institute-of-technology-madras/da24m029-da6401-assignment2/sweeps/wa25zrnq
+wandb: WARNING Calling wandb.login() after wandb.init() has no effect.

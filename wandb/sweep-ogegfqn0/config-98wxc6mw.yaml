@@ -1,0 +1,24 @@
+wandb_version: 1
+
+activation:
+  value: mish
+augment:
+  value: true
+batch_norm:
+  value: true
+batch_size:
+  value: 32
+dense_neurons:
+  value: 512
+dropout:
+  value: 0.2
+epochs:
+  value: 5
+filter_organization:
+  value: half
+filters_base:
+  value: 32
+kernel_size:
+  value: 5
+lr:
+  value: 0.004231379340381116

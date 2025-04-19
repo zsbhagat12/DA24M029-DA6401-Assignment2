@@ -1,0 +1,15 @@
+wandb: WARNING Calling wandb.run.save without any arguments is deprecated.Changes to attributes are automatically persisted.
+Minimal preprocessing, no augmentation
+Total images: 9999
+Training set: 7999 images
+Validation set: 2000 images
+Number of classes: 10
+100%|██████████| 125/125 [01:02<00:00,  2.01it/s]
+Epoch 1/10 - Train Loss: 2.8836, Train Acc: 0.1340 - Val Loss: 2.2831, Val Acc: 0.1395
+100%|██████████| 125/125 [01:12<00:00,  1.73it/s]
+Epoch 2/10 - Train Loss: 2.2108, Train Acc: 0.1849 - Val Loss: 2.1202, Val Acc: 0.2395
+100%|██████████| 125/125 [01:02<00:00,  2.02it/s]
+Epoch 3/10 - Train Loss: 2.1291, Train Acc: 0.2252 - Val Loss: 2.1042, Val Acc: 0.2225
+100%|██████████| 125/125 [01:01<00:00,  2.02it/s]
+Epoch 4/10 - Train Loss: 2.0787, Train Acc: 0.2473 - Val Loss: 2.0550, Val Acc: 0.2500
+  0%|          | 0/125 [00:00<?, ?it/s]

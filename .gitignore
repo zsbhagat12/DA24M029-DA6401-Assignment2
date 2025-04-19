@@ -1,0 +1,5 @@
+# Ignore all .zip files
+*.zip
+
+# Ignore the data folder
+nature_12K/

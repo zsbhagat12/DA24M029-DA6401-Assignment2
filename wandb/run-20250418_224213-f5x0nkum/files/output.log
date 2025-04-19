@@ -1,0 +1,5 @@
+Minimal preprocessing, no augmentation
+Total images: 9999
+Training set: 7999 images
+Validation set: 2000 images
+Number of classes: 10

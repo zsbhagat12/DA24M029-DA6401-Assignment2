@@ -1,0 +1,7 @@
+Minimal preprocessing, no augmentation
+Total images: 9999
+Training set: 7999 images
+Validation set: 2000 images
+Number of classes: 10
+Model: resnet50, Strategy: last_only → Ready for training.
+Train Epoch 1:   0%|          | 0/125 [00:32<?, ?it/s]

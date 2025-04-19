@@ -1,0 +1,9 @@
+Minimal preprocessing, no augmentation
+Total images: 9999
+Training set: 7999 images
+Validation set: 2000 images
+Number of classes: 10
+Downloading: "https://download.pytorch.org/models/resnet50-11ad3fa6.pth" to C:\Users\zeesh/.cache\torch\hub\checkpoints\resnet50-11ad3fa6.pth
+100%|██████████| 97.8M/97.8M [00:08<00:00, 11.8MB/s]
+Model: resnet50, Strategy: last_only → Ready for training.
+Train Epoch 1:  42%|████▏     | 53/125 [02:55<03:58,  3.31s/it] 

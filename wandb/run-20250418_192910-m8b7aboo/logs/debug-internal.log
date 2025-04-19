@@ -1,0 +1,22 @@
+{"time":"2025-04-18T19:29:12.283919+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"d:\\Jamie\\IIT Madras\\Semester II_1st Year_2024-25\\DA6401 Introduction to Deep Learning\\Assignments\\2\\Github\\wandb\\run-20250418_192910-m8b7aboo\\logs\\debug-core.log"}
+{"time":"2025-04-18T19:29:12.6763941+05:30","level":"INFO","msg":"created new stream","id":"m8b7aboo"}
+{"time":"2025-04-18T19:29:12.6763941+05:30","level":"INFO","msg":"stream: started","id":"m8b7aboo"}
+{"time":"2025-04-18T19:29:12.6763941+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"m8b7aboo"}
+{"time":"2025-04-18T19:29:12.6763941+05:30","level":"INFO","msg":"handler: started","stream_id":"m8b7aboo"}
+{"time":"2025-04-18T19:29:12.6763941+05:30","level":"INFO","msg":"sender: started","stream_id":"m8b7aboo"}
+{"time":"2025-04-18T19:29:12.9925597+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T19:32:18.5862027+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-18T19:32:18.6117322+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-18T19:32:18.6203578+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-18T19:32:18.6463731+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-18T19:32:18.6544368+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-18T19:32:23.0642945+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-18T19:32:23.076391+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T19:32:23.076391+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T19:32:24.083968+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.3682227,"progress":"485B/485B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.3682227,"progress":"26B/26B"},{"desc":"uploading config.yaml","runtime_seconds":0.0695093,"progress":"832B/832B"}],"total_operations":3}}
+{"time":"2025-04-18T19:32:24.3531299+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T19:32:24.6893255+05:30","level":"INFO","msg":"stream: closing","id":"m8b7aboo"}
+{"time":"2025-04-18T19:32:24.6893255+05:30","level":"INFO","msg":"handler: closed","stream_id":"m8b7aboo"}
+{"time":"2025-04-18T19:32:24.6893255+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"m8b7aboo"}
+{"time":"2025-04-18T19:32:24.6893255+05:30","level":"INFO","msg":"sender: closed","stream_id":"m8b7aboo"}
+{"time":"2025-04-18T19:32:24.6893255+05:30","level":"INFO","msg":"stream: closed","id":"m8b7aboo"}

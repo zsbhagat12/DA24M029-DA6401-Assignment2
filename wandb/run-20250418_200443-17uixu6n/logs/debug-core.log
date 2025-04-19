@@ -1,0 +1,10 @@
+{"time":"2025-04-18T20:04:43.0624416+05:30","level":"INFO","msg":"main: starting server","port-filename":"C:\\Users\\zeesh\\AppData\\Local\\Temp\\tmptcmldurt\\port-26412.txt","pid":26412,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false}
+{"time":"2025-04-18T20:04:43.0663281+05:30","level":"INFO","msg":"Will exit if parent process dies.","ppid":26412}
+{"time":"2025-04-18T20:04:43.0663281+05:30","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":59953,"Zone":""}}
+{"time":"2025-04-18T20:04:43.2386083+05:30","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:59954"}
+{"time":"2025-04-18T20:04:43.8634868+05:30","level":"INFO","msg":"handleInformInit: received","streamId":"17uixu6n","id":"127.0.0.1:59954"}
+{"time":"2025-04-18T20:04:44.3115837+05:30","level":"INFO","msg":"handleInformInit: stream started","streamId":"17uixu6n","id":"127.0.0.1:59954"}
+{"time":"2025-04-18T20:05:14.5703158+05:30","level":"INFO","msg":"handleInformFinish: finish message received","streamId":"17uixu6n","id":"127.0.0.1:59954"}
+{"time":"2025-04-18T20:05:14.5708322+05:30","level":"INFO","msg":"handleInformFinish: stream closed","streamId":"17uixu6n","id":"127.0.0.1:59954"}
+{"time":"2025-04-18T20:05:14.5730818+05:30","level":"INFO","msg":"handleInformInit: received","streamId":"lwgbpsr0","id":"127.0.0.1:59954"}
+{"time":"2025-04-18T20:05:14.9703449+05:30","level":"INFO","msg":"handleInformInit: stream started","streamId":"lwgbpsr0","id":"127.0.0.1:59954"}

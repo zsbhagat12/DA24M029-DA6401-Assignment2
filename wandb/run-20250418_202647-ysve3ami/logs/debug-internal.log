@@ -1,0 +1,17 @@
+{"time":"2025-04-18T20:26:47.0669954+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"d:\\Jamie\\IIT Madras\\Semester II_1st Year_2024-25\\DA6401 Introduction to Deep Learning\\Assignments\\2\\Github\\wandb\\run-20250418_202647-ysve3ami\\logs\\debug-core.log"}
+{"time":"2025-04-18T20:26:47.5084458+05:30","level":"INFO","msg":"created new stream","id":"ysve3ami"}
+{"time":"2025-04-18T20:26:47.5084458+05:30","level":"INFO","msg":"stream: started","id":"ysve3ami"}
+{"time":"2025-04-18T20:26:47.5084458+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ysve3ami"}
+{"time":"2025-04-18T20:26:47.5084458+05:30","level":"INFO","msg":"handler: started","stream_id":"ysve3ami"}
+{"time":"2025-04-18T20:26:47.5084458+05:30","level":"INFO","msg":"sender: started","stream_id":"ysve3ami"}
+{"time":"2025-04-18T20:26:47.8329803+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T21:25:03.811381+05:30","level":"INFO","msg":"api: retrying HTTP error","status":502,"url":"https://api.wandb.ai/files/da24m029-indian-institute-of-technology-madras/da24m029-da6401-assignment2/ysve3ami/file_stream","body":"\n<html><head>\n<meta http-equiv=\"content-type\" content=\"text/html;charset=utf-8\">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n"}
+{"time":"2025-04-18T21:39:16.6995822+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T21:39:16.6995822+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T21:39:17.7124004+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.3861598,"progress":"215B/215B"},{"desc":"uploading output.log","runtime_seconds":0.3861598,"progress":"8.5KB/8.5KB"},{"desc":"uploading config.yaml","runtime_seconds":0.0889927,"progress":"912B/912B"}],"total_operations":3}}
+{"time":"2025-04-18T21:39:17.9556782+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T21:39:18.5196446+05:30","level":"INFO","msg":"stream: closing","id":"ysve3ami"}
+{"time":"2025-04-18T21:39:18.5196446+05:30","level":"INFO","msg":"handler: closed","stream_id":"ysve3ami"}
+{"time":"2025-04-18T21:39:18.5196446+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ysve3ami"}
+{"time":"2025-04-18T21:39:18.5201921+05:30","level":"INFO","msg":"sender: closed","stream_id":"ysve3ami"}
+{"time":"2025-04-18T21:39:18.5201921+05:30","level":"INFO","msg":"stream: closed","id":"ysve3ami"}

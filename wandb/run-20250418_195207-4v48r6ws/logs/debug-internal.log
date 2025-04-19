@@ -1,0 +1,8 @@
+{"time":"2025-04-18T19:52:07.907622+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"d:\\Jamie\\IIT Madras\\Semester II_1st Year_2024-25\\DA6401 Introduction to Deep Learning\\Assignments\\2\\Github\\wandb\\run-20250418_195207-4v48r6ws\\logs\\debug-core.log"}
+{"time":"2025-04-18T19:52:08.3071725+05:30","level":"INFO","msg":"created new stream","id":"4v48r6ws"}
+{"time":"2025-04-18T19:52:08.3071725+05:30","level":"INFO","msg":"stream: started","id":"4v48r6ws"}
+{"time":"2025-04-18T19:52:08.3071725+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"4v48r6ws"}
+{"time":"2025-04-18T19:52:08.3071725+05:30","level":"INFO","msg":"sender: started","stream_id":"4v48r6ws"}
+{"time":"2025-04-18T19:52:08.3071725+05:30","level":"INFO","msg":"handler: started","stream_id":"4v48r6ws"}
+{"time":"2025-04-18T19:52:08.7702866+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T20:00:06.0770306+05:30","level":"INFO","msg":"Pausing system monitor"}

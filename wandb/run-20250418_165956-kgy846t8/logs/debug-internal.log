@@ -1,0 +1,29 @@
+{"time":"2025-04-18T16:59:56.4209891+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"d:\\Jamie\\IIT Madras\\Semester II_1st Year_2024-25\\DA6401 Introduction to Deep Learning\\Assignments\\2\\Github\\wandb\\run-20250418_165956-kgy846t8\\logs\\debug-core.log"}
+{"time":"2025-04-18T16:59:57.002062+05:30","level":"INFO","msg":"created new stream","id":"kgy846t8"}
+{"time":"2025-04-18T16:59:57.0026042+05:30","level":"INFO","msg":"stream: started","id":"kgy846t8"}
+{"time":"2025-04-18T16:59:57.0026042+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"kgy846t8"}
+{"time":"2025-04-18T16:59:57.002062+05:30","level":"INFO","msg":"handler: started","stream_id":"kgy846t8"}
+{"time":"2025-04-18T16:59:57.0026042+05:30","level":"INFO","msg":"sender: started","stream_id":"kgy846t8"}
+{"time":"2025-04-18T16:59:57.4711412+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T16:59:58.4906699+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-18T17:04:54.1821947+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-18T17:04:56.7550062+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-18T17:04:56.7818275+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-18T17:04:56.7844005+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-18T17:04:56.8086046+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-18T17:04:56.8629532+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-18T17:04:56.8791737+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-18T17:04:56.8818595+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-18T17:08:15.9474827+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-18T17:08:15.9514168+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-18T17:08:28.2081727+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-18T17:08:28.2123656+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-18T17:08:33.7887348+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-18T17:08:35.57648+05:30","level":"INFO","msg":"stream: closing","id":"kgy846t8"}
+{"time":"2025-04-18T17:08:35.57648+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T17:08:35.5818662+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T17:08:36.5100313+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T17:08:36.8149396+05:30","level":"INFO","msg":"handler: closed","stream_id":"kgy846t8"}
+{"time":"2025-04-18T17:08:36.8149396+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"kgy846t8"}
+{"time":"2025-04-18T17:08:36.8149396+05:30","level":"INFO","msg":"sender: closed","stream_id":"kgy846t8"}
+{"time":"2025-04-18T17:08:36.815918+05:30","level":"INFO","msg":"stream: closed","id":"kgy846t8"}

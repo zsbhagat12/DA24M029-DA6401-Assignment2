@@ -1,0 +1,16 @@
+{"time":"2025-04-18T20:20:56.8095859+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"d:\\Jamie\\IIT Madras\\Semester II_1st Year_2024-25\\DA6401 Introduction to Deep Learning\\Assignments\\2\\Github\\wandb\\run-20250418_202056-jitknogr\\logs\\debug-core.log"}
+{"time":"2025-04-18T20:20:58.2620454+05:30","level":"INFO","msg":"created new stream","id":"jitknogr"}
+{"time":"2025-04-18T20:20:58.2620454+05:30","level":"INFO","msg":"stream: started","id":"jitknogr"}
+{"time":"2025-04-18T20:20:58.2620454+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"jitknogr"}
+{"time":"2025-04-18T20:20:58.2620454+05:30","level":"INFO","msg":"handler: started","stream_id":"jitknogr"}
+{"time":"2025-04-18T20:20:58.2620454+05:30","level":"INFO","msg":"sender: started","stream_id":"jitknogr"}
+{"time":"2025-04-18T20:20:58.5898687+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T20:50:55.6788369+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T20:50:55.6788369+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T20:50:56.6991943+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.4271616,"progress":"2.6KB/2.6KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.4271616,"progress":"227B/227B"},{"desc":"uploading config.yaml","runtime_seconds":0.1640452,"progress":"1.0KB/1.0KB"}],"total_operations":3}}
+{"time":"2025-04-18T20:50:57.6779094+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T20:50:58.0095187+05:30","level":"INFO","msg":"stream: closing","id":"jitknogr"}
+{"time":"2025-04-18T20:50:58.0095187+05:30","level":"INFO","msg":"handler: closed","stream_id":"jitknogr"}
+{"time":"2025-04-18T20:50:58.0095187+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"jitknogr"}
+{"time":"2025-04-18T20:50:58.0102646+05:30","level":"INFO","msg":"sender: closed","stream_id":"jitknogr"}
+{"time":"2025-04-18T20:50:58.0102646+05:30","level":"INFO","msg":"stream: closed","id":"jitknogr"}

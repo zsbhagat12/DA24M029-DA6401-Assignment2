@@ -1,0 +1,76 @@
+2025-04-19 22:26:01,359 INFO    MainThread:32124 [wandb_setup.py:_flush():67] Current SDK version is 0.19.9
+2025-04-19 22:26:01,360 INFO    MainThread:32124 [wandb_setup.py:_flush():67] Configure stats pid to 32124
+2025-04-19 22:26:01,360 INFO    MainThread:32124 [wandb_setup.py:_flush():67] Loading settings from C:\Users\zeesh\.config\wandb\settings
+2025-04-19 22:26:01,360 INFO    MainThread:32124 [wandb_setup.py:_flush():67] Loading settings from d:\Jamie\IIT Madras\Semester II_1st Year_2024-25\DA6401 Introduction to Deep Learning\Assignments\2\Github\wandb\settings
+2025-04-19 22:26:01,360 INFO    MainThread:32124 [wandb_setup.py:_flush():67] Loading settings from environment variables
+2025-04-19 22:26:01,360 INFO    MainThread:32124 [wandb_init.py:setup_run_log_directory():662] Logging user logs to d:\Jamie\IIT Madras\Semester II_1st Year_2024-25\DA6401 Introduction to Deep Learning\Assignments\2\Github\wandb\run-20250419_222601-5fc3dz4h\logs\debug.log
+2025-04-19 22:26:01,361 INFO    MainThread:32124 [wandb_init.py:setup_run_log_directory():663] Logging internal logs to d:\Jamie\IIT Madras\Semester II_1st Year_2024-25\DA6401 Introduction to Deep Learning\Assignments\2\Github\wandb\run-20250419_222601-5fc3dz4h\logs\debug-internal.log
+2025-04-19 22:26:01,361 INFO    MainThread:32124 [wandb_init.py:monkeypatch_ipython():581] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x00000296B2AD30D0>
+2025-04-19 22:26:01,361 INFO    MainThread:32124 [wandb_init.py:init():781] calling init triggers
+2025-04-19 22:26:01,361 INFO    MainThread:32124 [wandb_init.py:init():786] wandb.init called with sweep_config: {}
+config: {'num_filters': [8, 16, 32, 64, 128], 'kernel_size': 3, 'activation': 'silu', 'use_batchnorm': True, 'dropout': 0.3, 'dense_neurons': 256, 'num_classes': 10, 'lr': 0.00107, 'batch_size': 64, 'augment': False, 'epochs': 10, '_wandb': {}}
+2025-04-19 22:26:01,361 INFO    MainThread:32124 [wandb_init.py:init():809] starting backend
+2025-04-19 22:26:01,362 INFO    MainThread:32124 [wandb_init.py:init():813] sending inform_init request
+2025-04-19 22:26:01,409 INFO    MainThread:32124 [backend.py:_multiprocessing_setup():101] multiprocessing start_methods=spawn, using: spawn
+2025-04-19 22:26:01,409 INFO    MainThread:32124 [wandb_init.py:init():823] backend started and connected
+2025-04-19 22:26:01,412 INFO    MainThread:32124 [wandb_run.py:_label_probe_notebook():1267] probe notebook
+2025-04-19 22:26:01,418 INFO    MainThread:32124 [wandb_init.py:init():915] updated telemetry
+2025-04-19 22:26:01,522 INFO    MainThread:32124 [wandb_init.py:init():939] communicating run to backend with 90.0 second timeout
+2025-04-19 22:26:32,484 INFO    Thread-14 :32124 [retry.py:__call__():175] [no run ID] Retry attempt failed:
+Traceback (most recent call last):
+  File "d:\Jamie\miniconda3\envs\env2\lib\site-packages\urllib3\connection.py", line 174, in _new_conn
+    conn = connection.create_connection(
+  File "d:\Jamie\miniconda3\envs\env2\lib\site-packages\urllib3\util\connection.py", line 95, in create_connection
+    raise err
+  File "d:\Jamie\miniconda3\envs\env2\lib\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    sock.connect(sa)
+socket.timeout: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "d:\Jamie\miniconda3\envs\env2\lib\site-packages\urllib3\connectionpool.py", line 716, in urlopen
+    httplib_response = self._make_request(
+  File "d:\Jamie\miniconda3\envs\env2\lib\site-packages\urllib3\connectionpool.py", line 404, in _make_request
+    self._validate_conn(conn)
+  File "d:\Jamie\miniconda3\envs\env2\lib\site-packages\urllib3\connectionpool.py", line 1061, in _validate_conn
+    conn.connect()
+  File "d:\Jamie\miniconda3\envs\env2\lib\site-packages\urllib3\connection.py", line 363, in connect
+    self.sock = conn = self._new_conn()
+  File "d:\Jamie\miniconda3\envs\env2\lib\site-packages\urllib3\connection.py", line 179, in _new_conn
+    raise ConnectTimeoutError(
+urllib3.exceptions.ConnectTimeoutError: (<urllib3.connection.HTTPSConnection object at 0x00000296FC6F4070>, 'Connection to api.wandb.ai timed out. (connect timeout=20)')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "d:\Jamie\miniconda3\envs\env2\lib\site-packages\requests\adapters.py", line 667, in send
+    resp = conn.urlopen(
+  File "d:\Jamie\miniconda3\envs\env2\lib\site-packages\urllib3\connectionpool.py", line 802, in urlopen
+    retries = retries.increment(
+  File "d:\Jamie\miniconda3\envs\env2\lib\site-packages\urllib3\util\retry.py", line 594, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.wandb.ai', port=443): Max retries exceeded with url: /graphql (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000296FC6F4070>, 'Connection to api.wandb.ai timed out. (connect timeout=20)'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "d:\Jamie\miniconda3\envs\env2\lib\site-packages\wandb\sdk\lib\retry.py", line 134, in __call__
+    result = self._call_fn(*args, **kwargs)
+  File "d:\Jamie\miniconda3\envs\env2\lib\site-packages\wandb\sdk\internal\internal_api.py", line 402, in execute
+    return self.client.execute(*args, **kwargs)  # type: ignore
+  File "d:\Jamie\miniconda3\envs\env2\lib\site-packages\wandb\vendor\gql-0.2.0\wandb_gql\client.py", line 52, in execute
+    result = self._get_result(document, *args, **kwargs)
+  File "d:\Jamie\miniconda3\envs\env2\lib\site-packages\wandb\vendor\gql-0.2.0\wandb_gql\client.py", line 60, in _get_result
+    return self.transport.execute(document, *args, **kwargs)
+  File "d:\Jamie\miniconda3\envs\env2\lib\site-packages\wandb\sdk\lib\gql_request.py", line 58, in execute
+    request = self.session.post(self.url, **post_args)
+  File "d:\Jamie\miniconda3\envs\env2\lib\site-packages\requests\sessions.py", line 637, in post
+    return self.request("POST", url, data=data, json=json, **kwargs)
+  File "d:\Jamie\miniconda3\envs\env2\lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "d:\Jamie\miniconda3\envs\env2\lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "d:\Jamie\miniconda3\envs\env2\lib\site-packages\requests\adapters.py", line 688, in send
+    raise ConnectTimeout(e, request=request)
+requests.exceptions.ConnectTimeout: HTTPSConnectionPool(host='api.wandb.ai', port=443): Max retries exceeded with url: /graphql (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000296FC6F4070>, 'Connection to api.wandb.ai timed out. (connect timeout=20)'))

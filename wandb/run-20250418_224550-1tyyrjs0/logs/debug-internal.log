@@ -1,0 +1,16 @@
+{"time":"2025-04-18T22:45:50.8116581+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"d:\\Jamie\\IIT Madras\\Semester II_1st Year_2024-25\\DA6401 Introduction to Deep Learning\\Assignments\\2\\Github\\wandb\\run-20250418_224550-1tyyrjs0\\logs\\debug-core.log"}
+{"time":"2025-04-18T22:45:51.2594037+05:30","level":"INFO","msg":"created new stream","id":"1tyyrjs0"}
+{"time":"2025-04-18T22:45:51.2594037+05:30","level":"INFO","msg":"stream: started","id":"1tyyrjs0"}
+{"time":"2025-04-18T22:45:51.2594037+05:30","level":"INFO","msg":"handler: started","stream_id":"1tyyrjs0"}
+{"time":"2025-04-18T22:45:51.2594037+05:30","level":"INFO","msg":"sender: started","stream_id":"1tyyrjs0"}
+{"time":"2025-04-18T22:45:51.2594037+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"1tyyrjs0"}
+{"time":"2025-04-18T22:45:51.6136122+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T22:45:52.5001084+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T22:45:52.5007633+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T22:45:53.5209409+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading requirements.txt","runtime_seconds":0.930143,"progress":"5.9KB/5.9KB"},{"desc":"creating run","runtime_seconds":0.2312338}],"total_operations":2}}
+{"time":"2025-04-18T22:45:55.2996823+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T22:45:55.844892+05:30","level":"INFO","msg":"stream: closing","id":"1tyyrjs0"}
+{"time":"2025-04-18T22:45:55.844892+05:30","level":"INFO","msg":"handler: closed","stream_id":"1tyyrjs0"}
+{"time":"2025-04-18T22:45:55.844892+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"1tyyrjs0"}
+{"time":"2025-04-18T22:45:55.844892+05:30","level":"INFO","msg":"sender: closed","stream_id":"1tyyrjs0"}
+{"time":"2025-04-18T22:45:55.8454071+05:30","level":"INFO","msg":"stream: closed","id":"1tyyrjs0"}

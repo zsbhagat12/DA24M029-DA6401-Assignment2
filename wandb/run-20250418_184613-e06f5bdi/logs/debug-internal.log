@@ -1,0 +1,16 @@
+{"time":"2025-04-18T18:46:13.52667+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"d:\\Jamie\\IIT Madras\\Semester II_1st Year_2024-25\\DA6401 Introduction to Deep Learning\\Assignments\\2\\Github\\wandb\\run-20250418_184613-e06f5bdi\\logs\\debug-core.log"}
+{"time":"2025-04-18T18:46:13.9583262+05:30","level":"INFO","msg":"created new stream","id":"e06f5bdi"}
+{"time":"2025-04-18T18:46:13.9583262+05:30","level":"INFO","msg":"stream: started","id":"e06f5bdi"}
+{"time":"2025-04-18T18:46:13.9588815+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"e06f5bdi"}
+{"time":"2025-04-18T18:46:13.9588815+05:30","level":"INFO","msg":"sender: started","stream_id":"e06f5bdi"}
+{"time":"2025-04-18T18:46:13.9588815+05:30","level":"INFO","msg":"handler: started","stream_id":"e06f5bdi"}
+{"time":"2025-04-18T18:46:14.2695095+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T19:00:44.6643701+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T19:00:44.6643701+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T19:00:45.6750736+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.428633,"progress":"224B/224B"},{"desc":"uploading config.yaml","runtime_seconds":0.1320882,"progress":"1.0KB/1.0KB"}],"total_operations":2}}
+{"time":"2025-04-18T19:00:46.6336832+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T19:00:46.9398967+05:30","level":"INFO","msg":"stream: closing","id":"e06f5bdi"}
+{"time":"2025-04-18T19:00:46.9398967+05:30","level":"INFO","msg":"handler: closed","stream_id":"e06f5bdi"}
+{"time":"2025-04-18T19:00:46.9398967+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"e06f5bdi"}
+{"time":"2025-04-18T19:00:46.9398967+05:30","level":"INFO","msg":"sender: closed","stream_id":"e06f5bdi"}
+{"time":"2025-04-18T19:00:46.9404085+05:30","level":"INFO","msg":"stream: closed","id":"e06f5bdi"}

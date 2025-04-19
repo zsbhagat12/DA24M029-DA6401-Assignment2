@@ -1,0 +1,16 @@
+{"time":"2025-04-18T17:29:30.3988791+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"d:\\Jamie\\IIT Madras\\Semester II_1st Year_2024-25\\DA6401 Introduction to Deep Learning\\Assignments\\2\\Github\\wandb\\run-20250418_172930-89bds0a4\\logs\\debug-core.log"}
+{"time":"2025-04-18T17:29:31.1276049+05:30","level":"INFO","msg":"created new stream","id":"89bds0a4"}
+{"time":"2025-04-18T17:29:31.1276049+05:30","level":"INFO","msg":"stream: started","id":"89bds0a4"}
+{"time":"2025-04-18T17:29:31.1276049+05:30","level":"INFO","msg":"sender: started","stream_id":"89bds0a4"}
+{"time":"2025-04-18T17:29:31.1276049+05:30","level":"INFO","msg":"handler: started","stream_id":"89bds0a4"}
+{"time":"2025-04-18T17:29:31.1276049+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"89bds0a4"}
+{"time":"2025-04-18T17:29:31.4133275+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T17:52:03.6313803+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T17:52:03.6313803+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T17:52:04.6386061+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading best_model.pth","runtime_seconds":0.6977994,"progress":"1.1MB/5.7MB"},{"desc":"uploading output.log","runtime_seconds":0.4298248,"progress":"1.1KB/1.1KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.4298248,"progress":"229B/229B"},{"desc":"uploading config.yaml","runtime_seconds":0.1465505,"progress":"1.1KB/1.1KB"}],"total_operations":4}}
+{"time":"2025-04-18T17:52:09.1475609+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T17:52:09.509727+05:30","level":"INFO","msg":"stream: closing","id":"89bds0a4"}
+{"time":"2025-04-18T17:52:09.509727+05:30","level":"INFO","msg":"handler: closed","stream_id":"89bds0a4"}
+{"time":"2025-04-18T17:52:09.509727+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"89bds0a4"}
+{"time":"2025-04-18T17:52:09.509727+05:30","level":"INFO","msg":"sender: closed","stream_id":"89bds0a4"}
+{"time":"2025-04-18T17:52:09.509727+05:30","level":"INFO","msg":"stream: closed","id":"89bds0a4"}

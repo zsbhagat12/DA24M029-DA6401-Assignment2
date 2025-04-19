@@ -1,0 +1,6 @@
+{"time":"2025-04-18T19:39:30.3393704+05:30","level":"INFO","msg":"main: starting server","port-filename":"C:\\Users\\zeesh\\AppData\\Local\\Temp\\tmpt_vugaph\\port-35084.txt","pid":35084,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false}
+{"time":"2025-04-18T19:39:30.3452899+05:30","level":"INFO","msg":"Will exit if parent process dies.","ppid":35084}
+{"time":"2025-04-18T19:39:30.3452899+05:30","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":59290,"Zone":""}}
+{"time":"2025-04-18T19:39:30.5078844+05:30","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:59291"}
+{"time":"2025-04-18T19:39:31.0926776+05:30","level":"INFO","msg":"handleInformInit: received","streamId":"y83faulu","id":"127.0.0.1:59291"}
+{"time":"2025-04-18T19:39:31.5242396+05:30","level":"INFO","msg":"handleInformInit: stream started","streamId":"y83faulu","id":"127.0.0.1:59291"}

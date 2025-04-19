@@ -1,0 +1,15 @@
+{"time":"2025-04-18T18:37:47.0741434+05:30","level":"INFO","msg":"main: starting server","port-filename":"C:\\Users\\zeesh\\AppData\\Local\\Temp\\tmprvc057ri\\port-30756.txt","pid":30756,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false}
+{"time":"2025-04-18T18:37:47.0789162+05:30","level":"INFO","msg":"Will exit if parent process dies.","ppid":30756}
+{"time":"2025-04-18T18:37:47.0789162+05:30","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":57952,"Zone":""}}
+{"time":"2025-04-18T18:37:47.2461883+05:30","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:57954"}
+{"time":"2025-04-18T18:37:47.791516+05:30","level":"INFO","msg":"handleInformInit: received","streamId":"98wxc6mw","id":"127.0.0.1:57954"}
+{"time":"2025-04-18T18:37:48.2277756+05:30","level":"INFO","msg":"handleInformInit: stream started","streamId":"98wxc6mw","id":"127.0.0.1:57954"}
+{"time":"2025-04-18T18:37:51.3394041+05:30","level":"INFO","msg":"handleInformFinish: finish message received","streamId":"98wxc6mw","id":"127.0.0.1:57954"}
+{"time":"2025-04-18T18:37:51.3394041+05:30","level":"INFO","msg":"handleInformFinish: stream closed","streamId":"98wxc6mw","id":"127.0.0.1:57954"}
+{"time":"2025-04-18T18:37:52.33253+05:30","level":"INFO","msg":"handleInformTeardown: server teardown initiated","id":"127.0.0.1:57954"}
+{"time":"2025-04-18T18:37:52.33253+05:30","level":"INFO","msg":"handleInformTeardown: server shutdown complete","id":"127.0.0.1:57954"}
+{"time":"2025-04-18T18:37:52.33253+05:30","level":"INFO","msg":"server is shutting down"}
+{"time":"2025-04-18T18:37:52.33253+05:30","level":"INFO","msg":"connection: closing","id":"127.0.0.1:57954"}
+{"time":"2025-04-18T18:37:52.33253+05:30","level":"INFO","msg":"connection: closed successfully","id":"127.0.0.1:57954"}
+{"time":"2025-04-18T18:37:52.3330424+05:30","level":"INFO","msg":"connection: ManageConnectionData: connection closed","id":"127.0.0.1:57954"}
+{"time":"2025-04-18T18:37:52.3330424+05:30","level":"INFO","msg":"server is closed"}

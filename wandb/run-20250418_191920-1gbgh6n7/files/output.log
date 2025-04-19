@@ -1,0 +1,13 @@
+100%|██████████| 125/125 [01:29<00:00,  1.40it/s]
+[Epoch 1] Train Acc: 0.1269 | Val Acc: 0.1690
+Saved new best_model.pth
+100%|██████████| 125/125 [01:33<00:00,  1.33it/s]
+[Epoch 2] Train Acc: 0.1615 | Val Acc: 0.1830
+Saved new best_model.pth
+ 94%|█████████▍| 118/125 [01:23<00:04,  1.42it/s]
+Applying full data augmentation
+Total images: 9999
+Training set: 7999 images
+Validation set: 2000 images
+Number of classes: 10
+best_model.pth not found or incompatible. Training the model...

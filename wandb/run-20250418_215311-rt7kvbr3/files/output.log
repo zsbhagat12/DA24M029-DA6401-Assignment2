@@ -1,0 +1,35 @@
+Applying full data augmentation
+Total images: 9999
+Training set: 7999 images
+Validation set: 2000 images
+Number of classes: 10
+100%|██████████| 250/250 [02:35<00:00,  1.60it/s]
+Epoch 1/15 - Train Loss: 942.1160, Train Acc: 0.1019 - Val Loss: 2.3125, Val Acc: 0.1000
+100%|██████████| 250/250 [02:26<00:00,  1.71it/s]
+Epoch 2/15 - Train Loss: 2.3100, Train Acc: 0.0953 - Val Loss: 2.3129, Val Acc: 0.1000
+100%|██████████| 250/250 [02:20<00:00,  1.78it/s]
+Epoch 3/15 - Train Loss: 2.3117, Train Acc: 0.0980 - Val Loss: 2.3065, Val Acc: 0.1000
+100%|██████████| 250/250 [02:17<00:00,  1.81it/s]
+Epoch 4/15 - Train Loss: 2.3110, Train Acc: 0.0988 - Val Loss: 2.3060, Val Acc: 0.1000
+100%|██████████| 250/250 [02:16<00:00,  1.83it/s]
+Epoch 5/15 - Train Loss: 2.3135, Train Acc: 0.0973 - Val Loss: 2.3050, Val Acc: 0.1000
+100%|██████████| 250/250 [02:29<00:00,  1.67it/s]
+Epoch 6/15 - Train Loss: 2.3112, Train Acc: 0.0958 - Val Loss: 2.3090, Val Acc: 0.1000
+100%|██████████| 250/250 [02:23<00:00,  1.74it/s]
+Epoch 7/15 - Train Loss: 2.3110, Train Acc: 0.1004 - Val Loss: 2.3115, Val Acc: 0.1000
+100%|██████████| 250/250 [02:12<00:00,  1.88it/s]
+Epoch 8/15 - Train Loss: 2.3113, Train Acc: 0.0993 - Val Loss: 2.3098, Val Acc: 0.1000
+100%|██████████| 250/250 [02:17<00:00,  1.82it/s]
+Epoch 9/15 - Train Loss: 2.3122, Train Acc: 0.0941 - Val Loss: 2.3079, Val Acc: 0.1000
+100%|██████████| 250/250 [02:22<00:00,  1.76it/s]
+Epoch 10/15 - Train Loss: 2.3115, Train Acc: 0.0941 - Val Loss: 2.3166, Val Acc: 0.1000
+100%|██████████| 250/250 [02:22<00:00,  1.75it/s]
+Epoch 11/15 - Train Loss: 2.3133, Train Acc: 0.0984 - Val Loss: 2.3135, Val Acc: 0.1000
+100%|██████████| 250/250 [02:28<00:00,  1.68it/s]
+Epoch 12/15 - Train Loss: 2.3113, Train Acc: 0.1016 - Val Loss: 2.3088, Val Acc: 0.1000
+100%|██████████| 250/250 [02:28<00:00,  1.68it/s]
+Epoch 13/15 - Train Loss: 2.3133, Train Acc: 0.0958 - Val Loss: 2.3045, Val Acc: 0.1000
+100%|██████████| 250/250 [02:23<00:00,  1.74it/s]
+Epoch 14/15 - Train Loss: 2.3122, Train Acc: 0.0983 - Val Loss: 2.3110, Val Acc: 0.1000
+100%|██████████| 250/250 [02:22<00:00,  1.75it/s]
+Epoch 15/15 - Train Loss: 2.3111, Train Acc: 0.0994 - Val Loss: 2.3139, Val Acc: 0.1000

@@ -1,0 +1,7 @@
+Applying full data augmentation
+Total images: 9999
+Training set: 7999 images
+Validation set: 2000 images
+Number of classes: 10
+100%|██████████| 125/125 [01:30<00:00,  1.39it/s]
+  0%|          | 0/125 [00:00<?, ?it/s]

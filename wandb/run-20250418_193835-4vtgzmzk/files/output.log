@@ -1,0 +1,16 @@
+Minimal preprocessing, no augmentation
+Total images: 9999
+Training set: 7999 images
+Validation set: 2000 images
+Number of classes: 10
+Model: resnet50, Strategy: last_only → Ready for training.
+Train Epoch 1: 100%|██████████| 125/125 [01:20<00:00,  1.54it/s]
+Eval Epoch 1: 100%|██████████| 32/32 [00:26<00:00,  1.19it/s]
+Train Epoch 2: 100%|██████████| 125/125 [01:05<00:00,  1.91it/s]
+Eval Epoch 2: 100%|██████████| 32/32 [00:28<00:00,  1.12it/s]
+Train Epoch 3: 100%|██████████| 125/125 [01:09<00:00,  1.79it/s]
+Eval Epoch 3: 100%|██████████| 32/32 [00:27<00:00,  1.17it/s]
+Train Epoch 4: 100%|██████████| 125/125 [01:10<00:00,  1.77it/s]
+Eval Epoch 4: 100%|██████████| 32/32 [00:25<00:00,  1.23it/s]
+Train Epoch 5: 100%|██████████| 125/125 [01:04<00:00,  1.93it/s]
+Eval Epoch 5: 100%|██████████| 32/32 [00:26<00:00,  1.22it/s]

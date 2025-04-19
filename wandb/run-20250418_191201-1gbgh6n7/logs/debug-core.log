@@ -1,0 +1,21 @@
+{"time":"2025-04-18T19:12:01.1105746+05:30","level":"INFO","msg":"main: starting server","port-filename":"C:\\Users\\zeesh\\AppData\\Local\\Temp\\tmpqeuavx41\\port-32420.txt","pid":32420,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false}
+{"time":"2025-04-18T19:12:01.1149063+05:30","level":"INFO","msg":"Will exit if parent process dies.","ppid":32420}
+{"time":"2025-04-18T19:12:01.1149063+05:30","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":58643,"Zone":""}}
+{"time":"2025-04-18T19:12:01.2898635+05:30","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:58644"}
+{"time":"2025-04-18T19:12:01.8875013+05:30","level":"INFO","msg":"handleInformInit: received","streamId":"1gbgh6n7","id":"127.0.0.1:58644"}
+{"time":"2025-04-18T19:12:02.3233245+05:30","level":"INFO","msg":"handleInformInit: stream started","streamId":"1gbgh6n7","id":"127.0.0.1:58644"}
+{"time":"2025-04-18T19:19:20.0726407+05:30","level":"INFO","msg":"handleInformFinish: finish message received","streamId":"1gbgh6n7","id":"127.0.0.1:58644"}
+{"time":"2025-04-18T19:19:20.0731472+05:30","level":"INFO","msg":"handleInformFinish: stream closed","streamId":"1gbgh6n7","id":"127.0.0.1:58644"}
+{"time":"2025-04-18T19:19:20.4066998+05:30","level":"INFO","msg":"handleInformInit: received","streamId":"1gbgh6n7","id":"127.0.0.1:58644"}
+{"time":"2025-04-18T19:19:20.7892592+05:30","level":"INFO","msg":"handleInformInit: stream started","streamId":"1gbgh6n7","id":"127.0.0.1:58644"}
+{"time":"2025-04-18T19:24:51.7050934+05:30","level":"INFO","msg":"handleInformFinish: finish message received","streamId":"1gbgh6n7","id":"127.0.0.1:58644"}
+{"time":"2025-04-18T19:24:51.7056051+05:30","level":"INFO","msg":"handleInformFinish: stream closed","streamId":"1gbgh6n7","id":"127.0.0.1:58644"}
+{"time":"2025-04-18T19:24:51.7081095+05:30","level":"INFO","msg":"handleInformInit: received","streamId":"1gbgh6n7","id":"127.0.0.1:58644"}
+{"time":"2025-04-18T19:24:52.0955123+05:30","level":"INFO","msg":"handleInformInit: stream started","streamId":"1gbgh6n7","id":"127.0.0.1:58644"}
+{"time":"2025-04-18T19:38:16.9010265+05:30","level":"INFO","msg":"handleInformTeardown: server teardown initiated","id":"127.0.0.1:58644"}
+{"time":"2025-04-18T19:38:16.9010265+05:30","level":"INFO","msg":"connection: closing","id":"127.0.0.1:58644"}
+{"time":"2025-04-18T19:38:16.9010265+05:30","level":"INFO","msg":"server is shutting down"}
+{"time":"2025-04-18T19:38:16.9015355+05:30","level":"INFO","msg":"connection: closed successfully","id":"127.0.0.1:58644"}
+{"time":"2025-04-18T19:38:18.9303846+05:30","level":"INFO","msg":"handleInformTeardown: server shutdown complete","id":"127.0.0.1:58644"}
+{"time":"2025-04-18T19:38:18.9303846+05:30","level":"INFO","msg":"connection: ManageConnectionData: connection closed","id":"127.0.0.1:58644"}
+{"time":"2025-04-18T19:38:18.9303846+05:30","level":"INFO","msg":"server is closed"}
